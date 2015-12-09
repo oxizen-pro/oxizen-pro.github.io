@@ -2,7 +2,11 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Наши ключевые достоинства:
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+
+- 15 летний опыт в создании и управлении СПА-банным комплексом
+- Создание коммерчески эффективных проектов
+- Разработка и построение системы менеджмента и контроля качества
+- Создание гармоничных и функциональных пространств, сочетающих близость к природе c современными тенденциями и технологиями.
